@@ -5,12 +5,22 @@
          "LogoUrl":"https://sw.obpm-dev.io/access/assets/pimgpsh-fullsize-distr.png",
          "Campaigns":[
             {
-               "Name":"campaign",
-               "Code":"csem"
+               "Name":"CSEM activated",
+               "Code":"CSEM027"
+            }
+         ]
+      },
+	  {
+         "Name":"3611",
+         "LogoUrl":"",
+         "Campaigns":[
+            {
+               "Name":"3611 activated",
+               "Code":"3611001"
             },
             {
-               "Name":"campaign2",
-               "Code":"csem2"
+               "Name":"3611 Promo",
+               "Code":"3611002"
             }
          ]
       },
@@ -19,8 +29,8 @@
          "LogoUrl":"",
          "Campaigns":[
             {
-               "Name":"MAIN",
-               "Code":"alt"
+               "Name":"Altran activated",
+               "Code":"ALT002"
             }
          ]
       }
